@@ -7,4 +7,5 @@
 
 ## Api
 - url: /api/currency-info/AUD
-- password: 12345678
+- authentication key name: Token
+- authentication key value: aW16ZjNkVWtDSnM2RVIydkxXTGhBWnlMT09ob1Z1RzU5S015TFU3VA==633c6423da877
